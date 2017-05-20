@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Network tunnels
 - [obfsproxy](https://git.torproject.org/pluggable-transports/obfsproxy.git) - Tor framework for implementing pluggable transports (anti-censorship network tunnels)
-- [flashproxy](https://crypto.stanford.edu/flashproxy/) -  miniature proxy that runs in a web browser, and reflects traffic to a Tor relay.
+- [flashproxy](https://crypto.stanford.edu/flashproxy/) -  miniature proxy that runs in a web browser, and reflects traffic to a Tor relay. **As of 2017, it's deprecated.**
 - [meek](https://trac.torproject.org/projects/tor/wiki/doc/meek) - Tor pluggable transport that uses HTTP for carrying bytes and TLS for obfuscation.
 - [lantern](https://github.com/getlantern/lantern) - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
 - [scramblesuit](http://www.cs.kau.se/philwint/scramblesuit/) - Tor pluggable transport that uses look-like-nothing traffic as a cover channel
@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Decentralized systems
 - [ipfs](https://github.com/ipfs/ipfs) - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs))
-- [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat))
+- [dat](https://github.com/datproject/dat) - a decentralized tool for distributing data ([awesome list](https://github.com/datproject/awesome-dat))
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - Decentralized websites using Bitcoin crypto and the BitTorrent network
 - [twister](https://github.com/miguelfreitas/twister-core) - twister is an experimental peer-to-peer microblogging software.
 - [freenet](https://github.com/freenet) - Freenet is a peer-to-peer platform for censorship-resistant communication.
